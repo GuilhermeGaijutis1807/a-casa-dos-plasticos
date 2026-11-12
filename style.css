@@ -185,7 +185,7 @@ ol {
   display: flex;
   align-items: center;
   min-height: 68vh;
-  background-image: url("https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?auto=format&fit=crop&w=1600&q=80");
+  background-image: url("https://i.postimg.cc/9fMx6Myf/img-02.png");
   background-size: cover;
   background-position: center;
 }
@@ -562,7 +562,7 @@ ol {
 /* DESTAQUE: Prateleiras de tecidos e rolos */
 .destaque-imagem {
   min-height: 320px;
-  background-image: url("https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=900&q=80");
+  background-image: url("https://i.postimg.cc/9fMx6Myf/img-02.png");
   background-size: cover;
   background-position: center;
 }
